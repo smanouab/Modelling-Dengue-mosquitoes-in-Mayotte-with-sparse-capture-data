@@ -222,8 +222,8 @@ If you use this repository in your research, please cite the associated scientif
              in Mayotte with sparse capture data},
   author  = {Hil{\'a}rio, G. and Manou-Abi, S. and Balicchi, J.
              and Ainseba, B. and Boatto, S.},
-  journal = {To be completed},
-  year    = {To be completed}
+  journal = {Preprint},
+  year    = {2026}
 }
 ```
 
@@ -231,7 +231,7 @@ The final bibliographic information will be updated once the article is publishe
 
 ## Acknowledgements
 
-The authors acknowledge the scientific and institutional collaborations that contributed to this research, particularly the contributions associated with mosquito surveillance and environmental data collection in Mayotte.
+The authors acknowledge the scientific and institutional collaborations that contributed to this research, particularly the ARS contributions associated with mosquito surveillance and environmental data collection in Mayotte.
 
 ## License
 
